@@ -5,4 +5,4 @@ Hugo static site, hosted on GitHub, and deployed to GitHub Pages hosting,
 using the continuous integration available through GitHub Actions.
 
 
-geowazm.github.io/qgisdoc/
+https://geowazm.github.io/qgis-exercises/
